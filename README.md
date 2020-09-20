@@ -27,3 +27,7 @@ Learning React and ES6 by building a Movie Discovery App.
 - [ ] Collections Link
 - [ ] /collections Route
 - [ ] On TV Show, show seasons and creators
+
+
+deploy
+https://netflix-clone-noh.netlify.app/
